@@ -5,4 +5,7 @@ def add(x):
     return lst.append(x)
 
 def pepe(das):
-    print(das)
+    print(das) 
+
+def hi(i):
+    return i + 2
